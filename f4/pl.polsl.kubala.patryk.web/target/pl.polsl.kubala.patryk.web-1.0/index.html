@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Start Page</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body style="background-color: #d4d4d4">
+
+        <div style="display: flex; width: 100vw; height: 100vh;justify-content: center;align-items: center">
+            <div style="border: solid black 2px; padding: 30px;">
+                <h1>Homophonic cipher</h1>
+
+                <form action="Cryp" method="POST" >
+                    <label for="fname">Seed</label><br>
+                    <input type="text" id="seed" name="seed"><br>
+                    <label for="lname">Text Field:</label><br>
+                    <input type="text" id="textField" name="textField">
+                    <br>
+                    <input type="radio" id="decode" name="choose" value="decode">
+                    <label for="html">decode</label><br>
+                    <input type="radio" id="encode" name="choose" value="encode">
+                    <label for="css">encode</label><br>
+
+                    <input type="submit" value="Submit">
+                </form>
+                <hr>
+                <form action="CookieCheck" method="POST">
+                    <input type="submit" value="Check error cookies" />
+                </form>
+                <hr>
+                <hr>
+                <form action="History" method="POST">
+                    <input type="submit" value="Check history of action" />
+                </form>
+                <hr>
+            </div>
+
+        </div>
+    </body>
+</html>

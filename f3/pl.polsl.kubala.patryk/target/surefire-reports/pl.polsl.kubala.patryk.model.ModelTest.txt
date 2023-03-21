@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: pl.polsl.kubala.patryk.model.ModelTest
+-------------------------------------------------------------------------------
+Tests run: 23, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.942 s <<< FAILURE! - in pl.polsl.kubala.patryk.model.ModelTest
+testEncodeText{String, String, boolean}[1]  Time elapsed: 0.06 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Error ==> expected: <591 180 949 730 847 411> but was: <568 203 385 741 156 411 >
+	at pl.polsl.kubala.patryk.model.ModelTest.testEncodeText(ModelTest.java:229)
+
+testEncodeText{String, String, boolean}[3]  Time elapsed: 0.053 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Error ==> expected: <591> but was: <568 >
+	at pl.polsl.kubala.patryk.model.ModelTest.testEncodeText(ModelTest.java:229)
+

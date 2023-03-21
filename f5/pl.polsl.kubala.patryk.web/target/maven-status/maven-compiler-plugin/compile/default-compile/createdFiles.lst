@@ -1,0 +1,15 @@
+pl\polsl\kubala\patryk\model\IncorrectTextException.class
+pl\polsl\kubala\patryk\web\resources\JakartaEE8Resource.class
+pl\polsl\kubala\patryk\db\DatabaseConnction.class
+pl\polsl\kubala\patryk\servlet\DecryptServlet.class
+pl\polsl\kubala\patryk\model\Model$EnumChoice.class
+pl\polsl\kubala\patryk\servlet\MainFormServlet.class
+pl\polsl\kubala\patryk\web\JakartaRestConfiguration.class
+pl\polsl\kubala\patryk\servlet\History.class
+pl\polsl\kubala\patryk\servlet\CookiesCheckServlet.class
+pl\polsl\kubala\patryk\model\IncorrectKeySeedException.class
+pl\polsl\kubala\patryk\servlet\EncryptServlet.class
+pl\polsl\kubala\patryk\listener\AppContextListener.class
+pl\polsl\kubala\patryk\model\Model.class
+pl\polsl\kubala\patryk\servlet\FormServlet.class
+pl\polsl\kubala\patryk\model\IncorrectInputException.class

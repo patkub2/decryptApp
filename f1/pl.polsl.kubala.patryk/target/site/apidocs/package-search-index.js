@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"pl.polsl.kubala.patryk.controller"},{"l":"pl.polsl.kubala.patryk.model"},{"l":"pl.polsl.kubala.patryk.view"}];updateSearchResults();
